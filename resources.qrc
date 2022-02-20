@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/inventory_validator" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
